@@ -31,4 +31,4 @@ Fall/Spring classes:
 - 🔄 18.405 [Advanced Complexity Theory](/courses/mit/course-18/18-405/) (Spring 2024), <span style="color:red">no solutions</span>
 - 🔄 18.435 [Quantum Computation](/courses/mit/course-18/18-435/) (Fall 2023), <span style="color:red">no recent homework/exams</span>
 - ✅ 18.783: [Elliptic Curves](https://math.mit.edu/classes/18.783/2023/) (Fall 2023)
-- ✅ 18.901 [Introduction to Topology](/courses/mit/course-18/18-901/) (Fall 2024), <span style="color:red">no solutions</span>
+- 🔄 18.901 [Introduction to Topology](/courses/mit/course-18/18-901/) (Fall 2024), <span style="color:red">no solutions</span>
