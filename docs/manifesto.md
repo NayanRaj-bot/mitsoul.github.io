@@ -47,9 +47,9 @@ For the student looking for additional learning materials to supplement the badl
 <!-- With a lot of ideas for how MIT could put way more of its learning resources online, after working part-time at MIT OpenCourseWare (OCW) for one year, I started SOUL (Students for Open and Universal Learning) with my friend Aayush Gupta with a mission to make knowledge more accessible. -->
 
 # What we do
-SOUL aims to accelerate, experiment with, and build a stronger culture of open education at institutions of higher education, starting with MIT.
+[SOUL](/name/) (students for open and universal learning) is an organization that works to accelerate, experiment with, and build a stronger culture of open education at institutions of higher education, starting with MIT.
 We want to live in a world where anyone can learn anything from anywhere for free or at a low cost.
-To that end, our main goal in the short term is to open source (e.g. via a [Creative Commons](https://creativecommons.org/about/cclicenses/) license) learning materials from as many college courses as possible in a way that makes those courses “realistically learnable”.
+To that end, our main goal in the short term is to make college-level course sequences like full undergraduate majors "realistically learnable" from free online resources, and to build tools and workflows to scale this process.
 By "realistically learnable", we mean that someone who meets the course's prerequisites can realistically teach themselves all of the course's content using the provided learning materials.
 
 To achieve this, for each course, we try to put up as many materials from it as possible: videos and notes of lectures and recitations, homework assignments and solutions, exams, Q/A between students and course staff, etc – ideally everything the residential course has (and often with improvements: for example, we may rewrite unclear homework solutions and write hints for each problem to help someone get unstuck without looking at the solution).
