@@ -4,5 +4,6 @@ title: Team
 permalink: /team/
 ---
 
-- [Ashay Athalye](https://ashay.io), director
-- [Aayush Gupta](https://aayushg.com/), advisor
+- [Ashay Athalye](https://ashay.io)
+
+After the next round of fundraising, we'll be growing our team to 2-3 more people! 
